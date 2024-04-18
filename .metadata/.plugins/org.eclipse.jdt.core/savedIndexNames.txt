@@ -6,7 +6,6 @@ INDEX VERSION 1.134+C:\ws-novo\.metadata\.plugins\org.eclipse.jdt.core
 151421044.index
 276466457.index
 3897412305.index
-3729101479.index
 1381682144.index
 2289032521.index
 2690566179.index
