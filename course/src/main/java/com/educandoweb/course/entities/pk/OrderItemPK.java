@@ -1,12 +1,10 @@
 package com.educandoweb.course.entities.pk;
 
 import java.io.Serializable;
-import java.util.Objects;
-
-import org.hibernate.annotations.ManyToAny;
-
+import java.util.Objects;	
 import com.educandoweb.course.entities.Order;
 import com.educandoweb.course.entities.Product;
+import com.fasterxml.jackson.annotation.JsonIgnore;
 
 import jakarta.persistence.Embeddable;
 import jakarta.persistence.JoinColumn;
